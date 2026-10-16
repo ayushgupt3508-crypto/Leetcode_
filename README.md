@@ -13,10 +13,12 @@
 ## Array
 |  |
 | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1207-unique-number-of-occurrences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
 | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1207-unique-number-of-occurrences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
