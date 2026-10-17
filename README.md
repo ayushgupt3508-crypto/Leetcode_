@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [1185-day-of-the-week](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1185-day-of-the-week) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
