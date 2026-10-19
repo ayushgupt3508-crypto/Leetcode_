@@ -16,6 +16,7 @@
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
@@ -30,4 +31,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
