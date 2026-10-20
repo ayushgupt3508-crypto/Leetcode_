@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [1185-day-of-the-week](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1185-day-of-the-week) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2089-find-target-indices-after-sorting-array) |
+## String
+|  |
+| ------- |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1812-determine-color-of-a-chessboard-square) |
 <!---LeetCode Topics End-->
