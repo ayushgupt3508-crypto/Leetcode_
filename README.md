@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1207-unique-number-of-occurrences) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
@@ -43,5 +44,6 @@
 ## String
 |  |
 | ------- |
+| [1805-number-of-different-integers-in-a-string](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1812-determine-color-of-a-chessboard-square) |
 <!---LeetCode Topics End-->
