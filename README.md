@@ -7,6 +7,7 @@
 | ------- |
 | [1185-day-of-the-week](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1185-day-of-the-week) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1925-count-square-sum-triples](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1925-count-square-sum-triples) |
 | [2409-count-days-spent-together](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
@@ -50,4 +51,8 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2409-count-days-spent-together](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2409-count-days-spent-together) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
