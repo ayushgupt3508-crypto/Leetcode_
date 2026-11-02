@@ -24,6 +24,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2540-minimum-common-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2540-minimum-common-value](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2540-minimum-common-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -79,4 +82,8 @@
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1684-count-the-number-of-consistent-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
