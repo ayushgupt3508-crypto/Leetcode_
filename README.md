@@ -23,6 +23,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2540-minimum-common-value) |
 ## Sorting
@@ -61,6 +63,7 @@
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
@@ -92,5 +95,6 @@
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
