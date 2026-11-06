@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0821-shortest-distance-to-a-character](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0821-shortest-distance-to-a-character) |
 | [1207-unique-number-of-occurrences](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0409-longest-palindrome) |
+| [0821-shortest-distance-to-a-character](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0821-shortest-distance-to-a-character) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -94,6 +96,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0821-shortest-distance-to-a-character](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0821-shortest-distance-to-a-character) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2540-minimum-common-value) |
