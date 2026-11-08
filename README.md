@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0645-set-mismatch) |
 | [0821-shortest-distance-to-a-character](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0821-shortest-distance-to-a-character) |
 | [1051-height-checker](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1207-unique-number-of-occurrences) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0409-longest-palindrome) |
+| [0645-set-mismatch](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -63,6 +65,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -95,6 +98,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |
