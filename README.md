@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0821-shortest-distance-to-a-character) |
@@ -105,6 +106,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Two Pointers
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1051-height-checker) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
