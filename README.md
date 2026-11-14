@@ -37,6 +37,7 @@
 | [2540-minimum-common-value](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2540-minimum-common-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -127,4 +128,12 @@
 | ------- |
 | [0078-subsets](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0090-subsets-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/3364-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
