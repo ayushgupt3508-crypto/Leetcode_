@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0090-subsets-ii) |
 | [0645-set-mismatch](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0645-set-mismatch) |
@@ -126,6 +127,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0090-subsets-ii) |
 ## Sliding Window
