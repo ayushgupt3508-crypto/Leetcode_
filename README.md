@@ -90,6 +90,7 @@
 | [1805-number-of-different-integers-in-a-string](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2409-count-days-spent-together) |
 ## Enumeration
 |  |
@@ -138,4 +139,8 @@
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/3364-minimum-positive-sum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
