@@ -95,6 +95,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Enumeration
 |  |
 | ------- |
