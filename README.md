@@ -18,6 +18,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0409-longest-palindrome) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Array
 |  |
@@ -39,6 +40,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2540-minimum-common-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/3364-minimum-positive-sum-subarray) |
@@ -82,6 +84,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## String
 |  |
 | ------- |
