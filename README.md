@@ -27,6 +27,7 @@
 | [0078-subsets](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0090-subsets-ii) |
 | [0645-set-mismatch](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0645-set-mismatch) |
+| [0804-unique-morse-code-words](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0821-shortest-distance-to-a-character) |
 | [1051-height-checker](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1051-height-checker) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0409-longest-palindrome) |
 | [0645-set-mismatch](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0645-set-mismatch) |
+| [0804-unique-morse-code-words](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0819-most-common-word) |
 | [1207-unique-number-of-occurrences](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -90,6 +92,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0409-longest-palindrome) |
+| [0804-unique-morse-code-words](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0821-shortest-distance-to-a-character) |
 | [1108-defanging-an-ip-address](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1108-defanging-an-ip-address) |
