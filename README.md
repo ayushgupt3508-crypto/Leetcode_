@@ -26,6 +26,7 @@
 | [0046-permutations](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0819-most-common-word) |
@@ -49,6 +50,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0409-longest-palindrome) |
 | [0645-set-mismatch](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0804-unique-morse-code-words) |
@@ -80,6 +82,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -110,6 +113,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0169-majority-element) |
 | [0819-most-common-word](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0819-most-common-word) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -155,4 +159,12 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
