@@ -7,6 +7,7 @@
 | ------- |
 | [1185-day-of-the-week](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1185-day-of-the-week) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1352-product-of-the-last-k-numbers) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1925-count-square-sum-triples](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1925-count-square-sum-triples) |
 | [2409-count-days-spent-together](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2409-count-days-spent-together) |
@@ -36,6 +37,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -154,6 +156,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1352-product-of-the-last-k-numbers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
 |  |
@@ -167,4 +170,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
