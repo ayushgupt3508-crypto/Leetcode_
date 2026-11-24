@@ -32,6 +32,7 @@
 | [0804-unique-morse-code-words](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0832-flipping-an-image) |
 | [1051-height-checker](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -130,12 +131,14 @@
 | [0078-subsets](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0090-subsets-ii) |
 | [0645-set-mismatch](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0832-flipping-an-image) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0344-reverse-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0832-flipping-an-image) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2540-minimum-common-value) |
@@ -161,6 +164,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0832-flipping-an-image) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Divide and Conquer
 |  |
@@ -178,4 +182,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1352-product-of-the-last-k-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
