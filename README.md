@@ -19,6 +19,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0409-longest-palindrome) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Array
@@ -102,6 +103,7 @@
 | [0819-most-common-word](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0821-shortest-distance-to-a-character) |
 | [1108-defanging-an-ip-address](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -118,6 +120,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0169-majority-element) |
 | [0819-most-common-word](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0819-most-common-word) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Counting Sort
