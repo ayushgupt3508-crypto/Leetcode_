@@ -12,6 +12,7 @@
 | [1925-count-square-sum-triples](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1925-count-square-sum-triples) |
 | [2409-count-days-spent-together](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2409-count-days-spent-together) |
 | [2544-alternating-digit-sum](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2544-alternating-digit-sum) |
+| [3360-stone-removal-game](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/3360-stone-removal-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Greedy
@@ -169,6 +170,7 @@
 | ------- |
 | [0832-flipping-an-image](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0832-flipping-an-image) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/3360-stone-removal-game) |
 ## Divide and Conquer
 |  |
 | ------- |
