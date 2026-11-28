@@ -31,6 +31,7 @@
 | [0078-subsets](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0169-majority-element) |
+| [0419-battleships-in-a-board](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0419-battleships-in-a-board) |
 | [0645-set-mismatch](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0819-most-common-word) |
@@ -195,5 +196,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0419-battleships-in-a-board](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0419-battleships-in-a-board) |
 | [0832-flipping-an-image](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0832-flipping-an-image) |
+## Depth-First Search
+|  |
+| ------- |
+| [0419-battleships-in-a-board](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0419-battleships-in-a-board) |
 <!---LeetCode Topics End-->
