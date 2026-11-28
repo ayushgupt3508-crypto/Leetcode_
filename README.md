@@ -106,6 +106,7 @@
 | [0804-unique-morse-code-words](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0821-shortest-distance-to-a-character) |
+| [0824-goat-latin](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/0824-goat-latin) |
 | [1108-defanging-an-ip-address](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupt3508-crypto/Leetcode_/tree/master/1684-count-the-number-of-consistent-strings) |
